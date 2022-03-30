@@ -5,8 +5,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
-  ![PHP](https://img.shields.io/badge/-php-black?style=plastic&logo=php)
-  ![Golang](https://img.shields.io/badge/-golang-black?style=plastic&logo=golang)
+  ![PHP](https://img.shields.io/badge/-PHP-8fcfd1?style=plastic&logo=php)
+  ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=go)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
