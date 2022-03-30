@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi 👋
 
 I love to talk on trending ⚡ technology ⚡,  Connect with me here -[![Gmail Badge](https://img.shields.io/badge/-szm19920426@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:szm19920426@gmail.com)](mailto:szm19920426@gmail.com)
-successimportantcritical informational inactive
+
 - 🏢 I'm currently working at **China**
 - 🚀 I use daily:
   ![PHP](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
@@ -18,8 +18,8 @@ successimportantcritical informational inactive
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vuedotjs)
   ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=plastic&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=plastic&logo=elasticsearch)
-  ![ClickHouse](https://img.shields.io/badge/-ClickHouse-black?style=plastic&logo=clickhouse)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-8fcfd1?style=plastic&logo=elasticsearch)
+  ![ClickHouse](https://img.shields.io/badge/-ClickHouse-blue?style=plastic&logo=clickhouse)
   ![Aliyun](https://img.shields.io/badge/Aliyun-orange?style=plastic&logo=alibabacloud)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
