@@ -2,20 +2,20 @@
 
 I love to talk on trending ⚡ technology ⚡,  Connect with me here -[![Gmail Badge](https://img.shields.io/badge/-szm19920426@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:szm19920426@gmail.com)](mailto:szm19920426@gmail.com)
 
-- 🏢 I'm currently working at **Worklife**
+- 🏢 I'm currently working at **China**
 - 🚀 I use daily:
-  ![PHP](https://img.shields.io/badge/-PHP-8fcfd1?style=plastic&logo=php)
-  ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=go)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=php)
+  ![Docker](https://img.shields.io/badge/-Docker-8fcfd1?style=plastic&logo=docker)
+  ![Go](https://img.shields.io/badge/-Go-9cf?style=plastic&logo=go)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
-  ![Vue](https://img.shields.io/badge/-vue-3b2e5a?style=plastic&logo=vue)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
+  ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vuedotjs)
+  ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=plastic&logo=mysql)
+  ![Aliyun](https://img.shields.io/badge/Aliyun-orange?style=plastic&logo=alibabacloud)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
