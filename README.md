@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
-[![Gmail Badge](https://img.shields.io/badge/-szm19920426@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:szm19920426@gmail.com)](mailto:szm19920426@gmail.com)
+I love to talk on trending ⚡ technology ⚡,  Connect with me here -[![Gmail Badge](https://img.shields.io/badge/-szm19920426@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:szm19920426@gmail.com)](mailto:szm19920426@gmail.com)
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
