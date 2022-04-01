@@ -1,4 +1,18 @@
 # Hi 👋
+             ,,,   ,|,                         ,,,              
+             ,|||  ||'                         '|||     ,,,|||, 
+            |||  ,||'  ,,|||,                  ,||  '|||'''|||' 
+          ,||'  ,|'||||' ,|||'                 ||',,,    ,||'   
+         ,||||  '    ||  ''                   ,||||||    |||,,||
+        |'  ||       ||                 ,,|||'|| ||'|||'''||'   
+            ||   ,   ||  '||,           '|''  |,,|'       ||    
+            ||  ||   ||   '|||                ,|||,       ||    
+            || |||   ||     ||             ,||'' |||      ||    
+            ||  ' ,,,||                    ''     ''   ,,,||    
+            ''     '|||                                '||||    
+                    '''                                  ''     
+
+
 
 I love to talk on trending ⚡ technology ⚡,  Connect with me here -[![Gmail Badge](https://img.shields.io/badge/-szm19920426@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:szm19920426@gmail.com)](mailto:szm19920426@gmail.com)
 
